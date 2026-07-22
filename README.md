@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/janu114/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/janu114/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/janu114/LeetCode/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/janu114/LeetCode/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/janu114/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/janu114/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/janu114/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/janu114/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/janu114/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0326-power-of-three](https://github.com/janu114/LeetCode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
