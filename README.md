@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/janu114/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/janu114/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/janu114/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/janu114/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/janu114/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/janu114/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/janu114/LeetCode/tree/master/0342-power-of-four) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/janu114/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/janu114/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/janu114/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/janu114/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/janu114/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/janu114/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/janu114/LeetCode/tree/master/0509-fibonacci-number) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/janu114/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/janu114/LeetCode/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/janu114/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/janu114/LeetCode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/janu114/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/janu114/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
