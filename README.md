@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/janu114/LeetCode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/janu114/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/janu114/LeetCode/tree/master/0200-number-of-islands) |
+| [1207-unique-number-of-occurrences](https://github.com/janu114/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/janu114/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/janu114/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/janu114/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/janu114/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/janu114/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1207-unique-number-of-occurrences](https://github.com/janu114/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
