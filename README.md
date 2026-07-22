@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/janu114/LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/janu114/LeetCode/tree/master/0200-number-of-islands) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/janu114/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/janu114/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/janu114/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
