@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/janu114/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/janu114/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/janu114/LeetCode/tree/master/0118-pascals-triangle) |
+| [0179-largest-number](https://github.com/janu114/LeetCode/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/janu114/LeetCode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/janu114/LeetCode/tree/master/0179-largest-number) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/janu114/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/janu114/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/janu114/LeetCode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/janu114/LeetCode/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/janu114/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/janu114/LeetCode/tree/master/0179-largest-number) |
 ## Tree
 |  |
 | ------- |
