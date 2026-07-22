@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/janu114/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/janu114/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/janu114/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/janu114/LeetCode/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/janu114/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/janu114/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/janu114/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/janu114/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/janu114/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/janu114/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/janu114/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/janu114/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/janu114/LeetCode/tree/master/0342-power-of-four) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/janu114/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/janu114/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/janu114/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/janu114/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/janu114/LeetCode/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
