@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/janu114/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/janu114/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/janu114/LeetCode/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/janu114/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/janu114/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/janu114/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/janu114/LeetCode/tree/master/0125-valid-palindrome) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/janu114/LeetCode/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/janu114/LeetCode/tree/master/1260-shift-2d-grid) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/janu114/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/janu114/LeetCode/tree/master/0179-largest-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/janu114/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
