@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/janu114/LeetCode/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/janu114/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/janu114/LeetCode/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/janu114/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/janu114/LeetCode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/janu114/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/janu114/LeetCode/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/janu114/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Enumeration
 |  |
 | ------- |
