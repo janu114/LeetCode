@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/janu114/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/janu114/LeetCode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/janu114/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/janu114/LeetCode/tree/master/0342-power-of-four) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/janu114/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/janu114/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/janu114/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/janu114/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/janu114/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/janu114/LeetCode/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/janu114/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/janu114/LeetCode/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/janu114/LeetCode/tree/master/0342-power-of-four) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/janu114/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/janu114/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search
