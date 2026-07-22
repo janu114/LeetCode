@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/janu114/LeetCode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/janu114/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/janu114/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/janu114/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/janu114/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/janu114/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/janu114/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/janu114/LeetCode/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/janu114/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/janu114/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/janu114/LeetCode/tree/master/0069-sqrtx) |
+| [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
 | ------- |
@@ -188,4 +192,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/janu114/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
