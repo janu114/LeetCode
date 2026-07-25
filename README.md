@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/janu114/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/janu114/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/janu114/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/janu114/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/janu114/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/janu114/LeetCode/tree/master/0179-largest-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/janu114/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
