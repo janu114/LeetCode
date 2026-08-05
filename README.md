@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/janu114/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/janu114/LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/janu114/LeetCode/tree/master/0200-number-of-islands) |
+| [3310-remove-methods-from-project](https://github.com/janu114/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/janu114/LeetCode/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/janu114/LeetCode/tree/master/0200-number-of-islands) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/janu114/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [3310-remove-methods-from-project](https://github.com/janu114/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-shortest-path-with-alternating-colors](https://github.com/janu114/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
+| [3310-remove-methods-from-project](https://github.com/janu114/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Segment Tree
 |  |
 | ------- |
