@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/janu114/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/janu114/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/janu114/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janu114/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/janu114/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/janu114/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/janu114/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/janu114/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/janu114/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/janu114/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janu114/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/janu114/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janu114/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/janu114/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/janu114/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/janu114/LeetCode/tree/master/0069-sqrtx) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janu114/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/janu114/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/janu114/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/janu114/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/janu114/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/janu114/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/janu114/LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janu114/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/janu114/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/janu114/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janu114/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/janu114/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/janu114/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janu114/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Graph Theory
 |  |
