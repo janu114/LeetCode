@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/janu114/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/janu114/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/janu114/LeetCode/tree/master/0202-happy-number) |
+| [0844-backspace-string-compare](https://github.com/janu114/LeetCode/tree/master/0844-backspace-string-compare) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/janu114/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/janu114/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/janu114/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0709-to-lower-case](https://github.com/janu114/LeetCode/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/janu114/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/janu114/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/janu114/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/janu114/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/janu114/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/janu114/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/janu114/LeetCode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/janu114/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/janu114/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/janu114/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/janu114/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/janu114/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/janu114/LeetCode/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/janu114/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/janu114/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/janu114/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1920-build-array-from-permutation](https://github.com/janu114/LeetCode/tree/master/1920-build-array-from-permutation) |
