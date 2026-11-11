@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/janu114/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/janu114/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/janu114/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/janu114/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/janu114/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/janu114/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -452,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/janu114/LeetCode/tree/master/2029-stone-game-ix) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/janu114/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
