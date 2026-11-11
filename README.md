@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/janu114/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janu114/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/janu114/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0707-design-linked-list](https://github.com/janu114/LeetCode/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/janu114/LeetCode/tree/master/0155-min-stack) |
+| [0707-design-linked-list](https://github.com/janu114/LeetCode/tree/master/0707-design-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
