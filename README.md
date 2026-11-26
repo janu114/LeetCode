@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/janu114/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/janu114/LeetCode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/janu114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/janu114/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/janu114/LeetCode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/janu114/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/janu114/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/janu114/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/janu114/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/janu114/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/janu114/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/janu114/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/janu114/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/janu114/LeetCode/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/janu114/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/janu114/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/janu114/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/janu114/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/janu114/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/janu114/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
